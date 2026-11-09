@@ -1,15 +1,4 @@
 class Solution{
-    public int findMaxForm(String[] strs,int m,int n){
-        int dp[][][]=new int[strs.length][m+1][n+1];
-        for(int i=0;i<strs.length;i++){
-            for(int j=0;j<=m;j++){
-                for(int k=0;k<=n;k++){
-                    dp[i][j][k]=-1;
-                }
-            }
-        }
-        return fxn(0,strs,m,n,dp);
-    }
     public int fxn(int i,String strs[],int m,int n,int dp[][][]){
         if(i==strs.length)return 0;
         if(dp[i][m][n]!=-1)return dp[i][m][n];
@@ -24,5 +13,16 @@ class Solution{
             pick=1+fxn(i+1,strs,m-zero,n-one,dp);
         }
         return dp[i][m][n]=Math.max(pick,notPick);
+    }
+    public int findMaxForm(String[] strs,int m,int n){
+        int dp[][][]=new int[strs.length][m+1][n+1];
+        for(int i=0;i<strs.length;i++){
+            for(int j=0;j<=m;j++){
+                for(int k=0;k<=n;k++){
+                    dp[i][j][k]=-1;
+                }
+            }
+        }
+        return fxn(0,strs,m,n,dp);
     }
 }
