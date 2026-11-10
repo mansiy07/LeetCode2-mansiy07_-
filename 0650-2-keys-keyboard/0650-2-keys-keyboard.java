@@ -11,11 +11,11 @@ class Solution {
         return dp[curr][copy]=Math.min(paste,copyAll);
     }
     public int minSteps(int n) {
-         if(n==1) return 0;
-         int dp[][]=new int[n+1][n+1];
-         for(int i=0;i<=n;i++){
+        if(n==1) return 0;
+        int dp[][]=new int[n+1][n+1];
+        for(int i=0;i<=n;i++){
             Arrays.fill(dp[i],-1);
-         }
-         return 1+fxn(1,1,n,dp);
+        }
+        return 1+fxn(1,1,n,dp);
     }
 }
