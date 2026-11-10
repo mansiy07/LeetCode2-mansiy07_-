@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 ## Dynamic Programming
 |  |
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
