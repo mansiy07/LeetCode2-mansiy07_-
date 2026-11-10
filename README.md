@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
