@@ -1,5 +1,5 @@
 class Solution {
-    public int solve(int i,int prevSwap,int[] nums1,int[] nums2,int[][] dp){
+    public int fxn(int i,int prevSwap,int[] nums1,int[] nums2,int[][] dp){
         if(i==nums1.length) return 0;
         if(dp[i][prevSwap]!=-1) return dp[i][prevSwap];
         int prev1=0,prev2=0;
@@ -9,10 +9,10 @@ class Solution {
         }
         int ans=Integer.MAX_VALUE;
         if(i==0||(nums1[i]>prev1&&nums2[i]>prev2)){
-            ans=solve(i+1,0,nums1,nums2,dp);
+            ans=fxn(i+1,0,nums1,nums2,dp);
         }
         if(i==0||(nums2[i]>prev1&&nums1[i]>prev2)){
-            ans=Math.min(ans,1+solve(i+1,1,nums1,nums2,dp));
+            ans=Math.min(ans,1+fxn(i+1,1,nums1,nums2,dp));
         }
         return dp[i][prevSwap]=ans;
     }
@@ -22,6 +22,6 @@ class Solution {
         for(int i=0;i<n;i++){
             Arrays.fill(dp[i],-1);
         }
-        return solve(0,0,nums1,nums2,dp);
+        return fxn(0,0,nums1,nums2,dp);
     }
 }
