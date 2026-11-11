@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
