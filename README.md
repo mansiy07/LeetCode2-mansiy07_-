@@ -54,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0650-2-keys-keyboard) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
