@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0494-target-sum) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0650-2-keys-keyboard) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
 ## Knapsack Problem
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
+| [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 ## Two Pointers
 |  |
 | ------- |
