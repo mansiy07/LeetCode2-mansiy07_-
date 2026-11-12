@@ -28,7 +28,6 @@
 
 // Tabulation
 
-
 class Solution {
     public double largestSumOfAverages(int[] nums,int k) {
         int n=nums.length;
