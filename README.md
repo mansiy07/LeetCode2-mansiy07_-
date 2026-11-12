@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
