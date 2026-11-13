@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0051-n-queens) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0396-rotate-function) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0377-combination-sum-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
