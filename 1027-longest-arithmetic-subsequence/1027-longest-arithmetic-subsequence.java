@@ -1,5 +1,5 @@
 class Solution {
-    int[][] dp;
+    int dp[][];
     int fxn(int i,int diff,int[] nums){
         if(i<0) return 0;
         if(dp[i][diff+500]!=-1) return dp[i][diff+500];
