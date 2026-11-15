@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3033-modify-the-matrix) |
 | [3093-longest-common-suffix-queries](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3093-longest-common-suffix-queries) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0518-coin-change-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
