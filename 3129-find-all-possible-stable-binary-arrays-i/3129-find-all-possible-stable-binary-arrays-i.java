@@ -1,6 +1,6 @@
 class Solution {
     int mod=1000000007;
-    int[][][] dp;
+    int dp[][][];
     int solve(int zero,int one,int last,int limit){
         if(zero==0&&one==0) return 1;
         if(dp[zero][one][last]!=-1) return dp[zero][one][last];
