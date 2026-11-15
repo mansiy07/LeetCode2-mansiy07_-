@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0518-coin-change-ii) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 ## Stack
 |  |
@@ -180,4 +182,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
