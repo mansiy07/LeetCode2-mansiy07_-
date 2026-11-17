@@ -3,7 +3,7 @@ class Solution {
     public int minimumChanges(String s,int k) {
         int n=s.length();
         int inf=1000000;
-        int[][] cost=new int[n][n];
+        int cost[][]=new int[n][n];
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 int len=j-i+1;
