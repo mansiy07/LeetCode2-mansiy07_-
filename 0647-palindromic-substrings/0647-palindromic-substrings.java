@@ -8,7 +8,7 @@ class Solution {
         }
         return ans;
     }
-    int count(String s,int l,int r){
+    public int count(String s,int l,int r){
         int cnt=0;
         while(l>=0&&r<s.length()&&s.charAt(l)==s.charAt(r)){
             cnt++;
