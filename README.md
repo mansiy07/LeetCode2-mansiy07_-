@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0650-2-keys-keyboard) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
