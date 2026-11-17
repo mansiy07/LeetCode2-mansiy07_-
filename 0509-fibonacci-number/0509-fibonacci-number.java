@@ -1,5 +1,5 @@
 class Solution {
-    int[] dp;
+    int dp[];
     public int fib(int n) {
         dp=new int[n+1];
         Arrays.fill(dp,-1);
