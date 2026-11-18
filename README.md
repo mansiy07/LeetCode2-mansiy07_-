@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0643-maximum-average-subarray-i) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
