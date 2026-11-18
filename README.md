@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0647-palindromic-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3093-longest-common-suffix-queries](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3093-longest-common-suffix-queries) |
 ## Dynamic Programming
 |  |
