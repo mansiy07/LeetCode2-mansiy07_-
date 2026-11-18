@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0643-maximum-average-subarray-i) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0560-subarray-sum-equals-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
