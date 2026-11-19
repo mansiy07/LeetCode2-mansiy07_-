@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3033-modify-the-matrix) |
 | [3093-longest-common-suffix-queries](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3093-longest-common-suffix-queries) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Merge Sort
 |  |
 | ------- |
