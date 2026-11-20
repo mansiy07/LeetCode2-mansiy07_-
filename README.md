@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3033-modify-the-matrix) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3093-longest-common-suffix-queries](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3093-longest-common-suffix-queries) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
 ## Knapsack Problem
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Merge Sort
 |  |
 | ------- |
