@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0377-combination-sum-iv) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0377-combination-sum-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0396-rotate-function) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
