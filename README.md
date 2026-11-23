@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0650-2-keys-keyboard) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3331-find-subtree-sizes-after-changes) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
