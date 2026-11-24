@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0396-rotate-function) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 ## Stack
@@ -174,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
@@ -290,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3411-maximum-subarray-with-equal-products) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
