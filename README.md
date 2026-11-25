@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
+| [1436-destination-city](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0647-palindromic-substrings) |
+| [1436-destination-city](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1436-destination-city) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
+| [1436-destination-city](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3331-find-subtree-sizes-after-changes) |
