@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0813-largest-sum-of-averages) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -302,5 +304,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
