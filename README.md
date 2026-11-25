@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1027-longest-arithmetic-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -309,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1791-find-center-of-star-graph) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
