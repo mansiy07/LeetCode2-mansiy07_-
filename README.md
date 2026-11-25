@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
