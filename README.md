@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0650-2-keys-keyboard) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
