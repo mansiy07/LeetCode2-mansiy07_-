@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Linked List
 |  |
 | ------- |
