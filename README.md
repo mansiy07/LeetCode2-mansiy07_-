@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0547-number-of-provinces) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Data Stream
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1615-maximal-network-rank) |
@@ -338,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
