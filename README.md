@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/0912-sort-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1388-pizza-with-3n-slices) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/1122-relative-sort-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mansiy07/LeetCode2-mansiy07_-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
